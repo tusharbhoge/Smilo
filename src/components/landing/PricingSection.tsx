@@ -14,7 +14,7 @@ const PricingSection = () => {
         <div className="absolute inset-0 bg-[radial-linear(circle_at_center,hsl(var(--primary)/0.06),transparent_70%)]"></div>
       </div>
 
-      <div className="relative z-10 max-w-7xl mx-auto">
+      <div className="relative z-10 max-w-6xl mx-auto">
         {/* Header */}
         <div className="text-center mb-20">
           <div className="inline-flex items-center gap-2 px-4 py-2 bg-linear-to-r from-primary/5 to-primary/10 rounded-full border border-primary/10 backdrop-blur-sm mb-6">

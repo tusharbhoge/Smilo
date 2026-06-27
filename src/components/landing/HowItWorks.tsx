@@ -6,7 +6,7 @@ import { Button } from "../ui/button";
 
 const HowItWorks = () => {
   return (
-    <section id="how-it-works" className="relative py-20 px-6 outline-hidden z-10 max-w-7xl mx-auto">
+    <section id="how-it-works" className="relative py-20 px-6 outline-hidden z-10 max-w-6xl mx-auto">
       {/* HEADER */}
       <div className="text-center mb-10">
         <div className="inline-flex items-center gap-2 px-4 py-2 bg-linear-to-r from-primary/5 to-primary/10 rounded-full border border-primary/10 backdrop-blur-sm mb-6">
