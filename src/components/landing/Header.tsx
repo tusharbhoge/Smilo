@@ -14,13 +14,13 @@ const Header = () => {
           </Link>
 
           <div className="hidden md:flex items-center gap-8">
-              <a href="#features" className="text-muted-foreground hover:text-foreground">
+              <a href="#how-it-works" className="text-muted-foreground hover:text-foreground">
                 How It Works
               </a>
-              <a href="#pricing" className="text-muted-foreground hover:text-foreground">
+              <a href="#pricing-section" className="text-muted-foreground hover:text-foreground">
                 Pricing
               </a>
-              <a href="#contact" className="text-muted-foreground hover:text-foreground">
+              <a href="#what-to-ask" className="text-muted-foreground hover:text-foreground">
                 About
               </a>
           </div>
@@ -36,6 +36,7 @@ const Header = () => {
                   Sign Up
                 </Button>
               </SignUpButton>
+              
           </div>
       </div>
     </nav>

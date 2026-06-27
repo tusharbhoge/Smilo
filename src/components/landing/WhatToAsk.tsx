@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const WhatToAsk = () => {
   return (
-    <section className="relative py-15 px-6 overflow-hidden border-t bg-linear-to-b from-background to-muted/20">
+    <section id="what-to-ask" className="relative py-20 px-6 overflow-hidden border-t bg-linear-to-b from-background to-muted/20">
       <div className="relative z-10 max-w-7xl mx-auto">
         {/* Header */}
         <div className="text-center mb-20">
