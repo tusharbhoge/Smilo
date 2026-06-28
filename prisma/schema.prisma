@@ -34,7 +34,7 @@ model Doctor {
   email     String   @unique
   name      String
   phone     String
-  specialty String
+  speciality String
   bio       String?
   imageUrl  String
   gender    Gender
